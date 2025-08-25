@@ -5,7 +5,7 @@ As a full-stack JavaScript developer with AWS Cloud Practitioner certification, 
 Currently work at Amalitech as a Front end engineer  
 Reach me at: [LinkedIn](your-linkedin-url) | [Email](mailto:your-email)  
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
