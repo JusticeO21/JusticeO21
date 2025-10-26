@@ -63,7 +63,7 @@ My work spans **Natural Language Processing (NLP)**, **Machine Learning pipeline
 ---
 
 ### 💬 Fun Fact
-I love transforming **AI models** into **real-world interactive systems** — where intelligence meets design ✨  
+I love transforming **AI models** into **real-world interactive systems** where intelligence meets design ✨  
 
 ---
 
