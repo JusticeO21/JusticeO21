@@ -1,7 +1,7 @@
 Justice Owusu
 ========================
 
-### Full-Stack AI Engineer | Founder of Smartcord | Agentic AI Specialist
+### Full-Stack AI Engineer | Founder | Agentic AI Specialist
 
 I am an **AI Engineer and Founder** with over 3 years of experience building, deploying, and scaling production-ready applications. I specialize in the intersection of **Generative AI, Agentic Workflows, and Scalable Cloud Infrastructure.**
 
